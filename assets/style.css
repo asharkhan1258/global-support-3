@@ -1,14 +1,16 @@
 :root {
-    --blue: #0b56c8;
-    --blue-dark: #062c68;
-    --red: #ef1b22;
-    --text: #152238;
-    --muted: #6d7786;
-    --light: #f5f8fc;
-    --border: #e4eaf2;
+    --blue: #0f766e;
+    --blue-dark: #134e4a;
+    --red: #d97706;
+    --text: #1c1917;
+    --muted: #78716c;
+    --light: #fafaf9;
+    --border: #e7e5e4;
     --shadow: 0 18px 50px rgba(7, 39, 86, 0.13);
 }
-
+.log{
+    color: var(--red);
+}
 * {
     box-sizing: border-box;
 }
