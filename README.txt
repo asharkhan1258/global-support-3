@@ -1,4 +1,4 @@
-GLOBAL SUPPORT - Clean Bootstrap Website
+Infinity support LLC - Clean Bootstrap Website
 ======================================
 
 Included pages:
